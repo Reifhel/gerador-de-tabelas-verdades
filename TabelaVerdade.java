@@ -5,11 +5,8 @@ import java.util.ArrayList;
 
 /*
 ---------------Nomes:-------------------
-|									   |
-| - Camilo Augusto Borges Caballero    |
-| - Cesar Cunha Ziobro			       |
-| - Enzo Bloss Stival				   |
-| - lucas philippe nunes de lima       |
+|									   |   
+| - Cesar Cunha Ziobro			       |     
 | - Rafael Schmitz Herdt			   |
 |								       |
 ----------------------------------------	
